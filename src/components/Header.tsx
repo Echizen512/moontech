@@ -12,9 +12,8 @@ export function Header() {
   const navigationItems = [
     { href: "#services", label: "Servicios" },
     { href: "#portfolio", label: "Portafolio" },
-    { href: "#process", label: "Procesos" },
-    { href: "#testimonials", label: "Testimonios" },
-    { href: "#contact", label: "Contacto" },
+    { href: "#team", label: "Expertos" },
+    { href: "#process", label: "Proceso" },
   ]
 
   return (
